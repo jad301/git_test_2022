@@ -1,0 +1,4 @@
+22	add
+23	commit
+24	checkout
+25	seria fast-forward
