@@ -1,0 +1,7 @@
+7	add
+8	commit
+9	checkout 
+13	add
+14	commit
+15	checkout
+16	pop
