@@ -1,3 +1,18 @@
+Javier Arce del Campo
+
+3	branch Historia000
+4	branch Historia001
+5	checkout Historia000
+7	add
+8	commit
+9	checkout 
+11	stash
+13	add
+14	commit
+15	checkout
+16	pop
+19	commit
+20	merge --no-ff 	conflicto, reordeno
 22	add
 23	commit
 24	checkout
@@ -5,3 +20,4 @@
 26	add+commit
 27	tag
 28	push origin --tags	sin conflicto
+
