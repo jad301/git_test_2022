@@ -3,3 +3,4 @@ Javier Arce del Campo
 3	branch Historia000
 4	branch Historia001
 5	checkout Historia000
+11	stash
